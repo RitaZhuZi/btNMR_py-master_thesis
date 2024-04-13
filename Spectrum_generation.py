@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import sys
 import csv
 import random
 import numpy as np
